@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sharmintonni000@gmail.com**
 
