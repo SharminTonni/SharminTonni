@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharmin Tonni</h1>
-<h3 align="center">New-bee Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmintonni&label=Profile%20views&color=0e75b6&style=flat" alt="sharmintonni" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharmintonni000@gmail.com**
 
-- ⚡ Fun fact **always thinking about designing**
+- ⚡ Fun fact **always thinking about Web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
